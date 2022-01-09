@@ -1,4 +1,4 @@
-# Run Ansible playbook GitHub Action
+# Run Ansible playbook GitHub Action.
 
 An Action that executes given Ansible playbook on selected hosts.
 
